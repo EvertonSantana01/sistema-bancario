@@ -25,9 +25,3 @@ Este é um sistema bancário em Java que simula operações básicas de contas b
 - **ContaCorrente**: Herda de `Conta`, aplica taxa de manutenção e possui limite de cheque especial.
 - **ContaPoupanca**: Herda de `Conta` e aplica juros.
 - **Iconta**: Interface que define as operações comuns (depósito, saque, transferência).
-
-## Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
